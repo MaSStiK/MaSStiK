@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Welcome+to+my+profile.;Hope+you+enjoy+:)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Welcome+to+my+profile;Hope+you+enjoy+:)" />
 </div>
           
 ## Visitors Count
