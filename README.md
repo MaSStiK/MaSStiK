@@ -1,3 +1,3 @@
 <!-- ![](https://komarev.com/ghpvc/?username=MaSStiK) -->
-## Visitor Count
+## Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/MaSStiK/count.svg)
