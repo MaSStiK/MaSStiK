@@ -9,6 +9,8 @@
 
 ## Github Stats
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaSStiK&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaSStiK&theme=github_dark)
+<div style="display: flex; justify-content: space-between;">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaSStiK&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaSStiK&theme=github_dark)
+</div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaSStiK&theme=github_dark)
