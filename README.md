@@ -1,6 +1,8 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Welcome+to+my+profile;Hope+you+enjoy+:)" />
 </div>
+
+I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 years, and I also sometimes create bots for VK and Telegram
           
 ## Visitors Count
 ![Visitors Count](https://profile-counter.glitch.me/MaSStiK/count.svg)
