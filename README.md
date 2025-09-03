@@ -4,7 +4,7 @@
 
 I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 years, and I also sometimes create bots for VK and Telegram
 
-[//]: https://profile-readme-generator.com/
+<!-- https://profile-readme-generator.com/ -->
 
 # 💻 Tech Stack:
 <div align="left">
@@ -34,11 +34,11 @@ I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 yea
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaSStiK&theme=github_dark_dimmed" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaSStiK&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
-</a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaSStiK&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaSStiK&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+  </a>
 </div>
 
 <picture>
