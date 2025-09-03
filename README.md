@@ -5,7 +5,7 @@
 I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 years, and I also sometimes create bots for VK and Telegram
           
 ## Visitors Count
-![Visitors Count](https://profile-counter.glitch.me/MaSStiK/count.svg)
+[![](https://visitcount.itsvg.in/api?id=MaSStiK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Github Stats
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
