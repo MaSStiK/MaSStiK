@@ -4,6 +4,8 @@
 
 I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 years, and I also sometimes create bots for VK and Telegram
 
+[//]: https://profile-readme-generator.com/
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -28,9 +30,10 @@ I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 yea
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaSStiK&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MaSStiK&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaSStiK&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaSStiK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaSStiK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaSStiK&icon=0&color=0)](https://visitcount.itsvg.in)
