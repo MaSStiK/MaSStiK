@@ -42,7 +42,7 @@ I'm Matvey Ovchinnikov, 21 y.o. I’ve been doing web-development for over 5 yea
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaSStiK&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://visit-count.vercel.app/api/count?id=MaSStiK)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masstik/masstik/output/github-contribution-grid-snake-dark.svg">
