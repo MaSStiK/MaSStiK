@@ -5,7 +5,7 @@
 <!-- https://profile-readme-generator.com/ -->
 
 # 👩‍💻 About Me
-<p align="left">I'm Matvey Ovchinnikov from Russia, but now living in France for over 2 years<br><br>- 🔭 I'm working as web-developer<br>- 📚 I also develop bots for VK and Telegram<br>- 🎨 Recently I started learning Blender</p>
+<p align="left">I'm Matvey Ovchinnikov from Russia, but now living in France for over 2 years<br><br>- 🔭 I'm working as Web Developer<br>- 📚 I also develop bots for VK and Telegram<br>- 🎨 Recently I started learning Blender</p>
 
 # 💻 Tech Stack:
 <div align="left">
